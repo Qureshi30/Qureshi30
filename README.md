@@ -11,7 +11,7 @@
 📫 How to reach me qureshihassan45@gmail.com
 
 
-⚡ BaketBaller
+⚡ BasketBaller
 
 
 <p align="left">
