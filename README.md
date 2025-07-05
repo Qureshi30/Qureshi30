@@ -1,16 +1,14 @@
-# 💫 About Me:
+# 💫 About Me:  
 👋 Hey, I'm Qureshi Hassan!  
-🚀 Full-Stack Developer | Fast Learner  
+🚀 Full-Stack Developer | MERN Enthusiast | Fragrance Brand Founder  
 
-I'm passionate about building high-performance web applications and developing creative projects that blend technology with real-world impact. Currently building **Lelido** – a fragrance brand – and learning Python to level up my backend skills.  
+I build scalable web applications with Next.js, React, and Node.js, and I’m also the proud founder of **Lelido**, a unique fragrance brand.  
+Always learning, always creating — currently diving deeper into Python and cloud deployment!
 
 💡 What I Do:  
-✅ Web Development – React Js, MERN stack  
-✅ UI/UX Design – Clean, responsive interfaces using Tailwind CSS  
-✅ C/C++ & Java – Strong programming fundamentals  
-✅ Startup Spirit – Turning ideas into reality (like Lelido)  
-
-🎯 Always exploring new tech, always building.
+✅ Web Development – MERN stack, clean UI/UX  
+✅ Full Project Lifecycle – From idea to deployment  
+✅ Brand Building – Bridging creativity and code  
 
 ---
 
@@ -21,42 +19,54 @@ I'm passionate about building high-performance web applications and developing c
 ---
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="Next.js"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/></td>
+  </tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=qureshi30&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=qureshi30&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=qureshi30&theme=radical&hide_border=false&layout=compact)
+### 📊 GitHub Stats
+
+<a href="https://github.com/qureshi30">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=qureshi30&theme=radical" />
+</a>
+<a href="https://github.com/qureshi30">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qureshi30&show_icons=true&locale=en&count_private=true&theme=radical" />
+</a>
+<a href="https://github.com/qureshi30">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qureshi30&theme=radical&hide_border=false" />
+</a>
+<a href="https://github.com/qureshi30">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qureshi30&layout=compact&theme=radical" />
+</a>
 
 ---
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=qureshi30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Dev Quote:
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=qureshi30&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Created with ❤️ by Hassan using GPRM -->
+<!-- Proudly created by Hassan with ❤️ | Inspired by Lebyy -->
