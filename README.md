@@ -1,11 +1,11 @@
 # 💫 About Me:
 👋 Hey, I'm Qureshi Hassan!  
-🚀 Full-Stack Developer | Fragrance Brand Founder | Fast Learner  
+🚀 Full-Stack Developer | Fast Learner  
 
 I'm passionate about building high-performance web applications and developing creative projects that blend technology with real-world impact. Currently building **Lelido** – a fragrance brand – and learning Python to level up my backend skills.  
 
 💡 What I Do:  
-✅ Web Development – React, Next.js, MERN stack  
+✅ Web Development – React Js, MERN stack  
 ✅ UI/UX Design – Clean, responsive interfaces using Tailwind CSS  
 ✅ C/C++ & Java – Strong programming fundamentals  
 ✅ Startup Spirit – Turning ideas into reality (like Lelido)  
