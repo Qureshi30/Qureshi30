@@ -1,5 +1,5 @@
 # 💫 About Me:  
-👋 Hey, I'm Qureshi Hassan!  
+👋 Hey, I'm Qureshi Mohammed Hassan!  
 🚀 Full-Stack Developer | MERN Enthusiast | Fragrance Brand Founder  
 
 I build scalable web applications with Next.js, React, and Node.js, and I’m also the proud founder of **Lelido**, a unique fragrance brand.  
