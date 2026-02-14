@@ -86,11 +86,14 @@ A full-stack platform for **help requests & offers**, featuring:
 
 ---
 
-### 🟩 Bulk SMS + Email Sender
-A tool that supports:
-- Bulk email sending (PHP)
-- Bulk SMS sending (Python + API integration)
-- User-friendly frontend UI
+### 🟩 Automated Bulk Voice Caller (Python-Based)
+A Python-based automated calling system designed for promotional and notification campaigns.
+🔹 Features:
+📞 Automated outbound voice calls
+🎙 Pre-recorded audio playback or Text-to-Speech
+📂 Bulk contact upload (CSV/Excel)
+🔁 Retry mechanism for unanswered calls
+📊 Call status logging (Answered / Busy / Failed)
 
 🔗 Repo: https://github.com/qureshi30/your-repo-link  
 
